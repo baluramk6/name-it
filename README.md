@@ -30,7 +30,7 @@ The Name It app is built using the following technologies:
 
 To run the Name It app locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/baluramk6/name-it.git`
 2. Navigate to the project directory: `cd name-it`
 3. Install the dependencies: `npm install`
 
@@ -53,4 +53,4 @@ The Name It app can be easily deployed using Vercel. Vercel is a cloud platform 
 5. Follow the prompts and provide the necessary information when prompted.
 6. Once the deployment is successful, Vercel will provide you with the app's URL.
 
-The deployed app can be accessed at: [Name-It](https://your-vercel-app-link)
+The deployed app can be accessed at: [Name-It](https://name-it-lc.vercel.app/)
